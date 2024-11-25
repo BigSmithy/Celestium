@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "celestium",
+	"version": "${version}",
+	"name": "Celestium",
+	"description": "For things that mods can't coordinate, and reading.",
+	"authors": [
+		"Gæmer",
+		"CosmoOrSth"
+	],
+	"contact": {
+		"sources": "https://github.com/BigSmithy/Celestium"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/celestium/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.smithy.Celestium"
+		],
+		"client": [
+		]
+	},
+	"mixins": [
+		"celestium.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		
+	}
+}
