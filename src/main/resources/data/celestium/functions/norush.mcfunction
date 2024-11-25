@@ -1,0 +1,2 @@
+tellraw @a {"text":"Slow the fuck down!","bold":true,"color":"gold","hoverEvent":{"action":"show_text","contents":[{"text":"Looks like the rush is over.","italic":true,"color":"dark_purple"}]}}
+gamerule randomTickSpeed 3

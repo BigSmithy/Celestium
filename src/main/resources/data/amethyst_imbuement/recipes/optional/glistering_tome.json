@@ -1,0 +1,28 @@
+{
+    "fabric:load_conditions": [
+      {
+        "condition": "fabric:all_mods_loaded",
+        "values": [
+          "patchouli"
+        ]
+      },
+      {
+        "condition": "amethyst_imbuement:enabled",
+        "id": "optional/glistering_tome"
+      }
+    ],
+    
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:book"
+      },
+      {
+        "item": "minecraft:amethyst_shard"
+      }
+    ],
+    "result": {
+      "item": "amethyst_imbuement:glistering_tome"
+    }
+  }
+  

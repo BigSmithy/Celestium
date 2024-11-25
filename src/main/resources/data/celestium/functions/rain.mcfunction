@@ -1,0 +1,2 @@
+tellraw @a {"text":"It is raining.","bold":true,"color":"dark_aqua","hoverEvent":{"action":"show_text","contents":[{"text":"Don't get wet, now.","italic":true,"color":"dark_purple"}]}}
+weather rain 1200

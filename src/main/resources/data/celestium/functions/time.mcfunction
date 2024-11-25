@@ -1,0 +1,2 @@
+tellraw @a {"text":"The time has come...","bold":true,"italic":true,"color":"dark_purple","hoverEvent":{"action":"show_text","contents":[{"text":"It truly has.","italic":true,"color":"dark_purple"}]}}
+give @a clock 1

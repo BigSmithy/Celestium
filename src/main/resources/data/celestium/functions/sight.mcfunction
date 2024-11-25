@@ -1,0 +1,2 @@
+tellraw @a {"text":"I see...","bold":true,"color":"dark_aqua","hoverEvent":{"action":"show_text","contents":[{"text":"Clearly, now, the rain is gone.","italic":true,"color":"dark_purple"}]}}
+give @a ender_eye 1

@@ -1,0 +1,2 @@
+tellraw @a {"text":"Here comes the cookie monster.","bold":true,"color":"dark_aqua","hoverEvent":{"action":"show_text","contents":[{"text":"He's here for your cookies.","italic":true,"color":"dark_purple"}]}}
+give @a cookie 5

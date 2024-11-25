@@ -1,0 +1,2 @@
+tellraw @a {"text":"The Steaks are high...","bold":true,"italic":true,"hoverEvent":{"action":"show_text","contents":[{"text":"They really are...","italic":true,"color":"dark_purple"}]}}
+give @a cooked_beef 16

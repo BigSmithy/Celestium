@@ -1,0 +1,2 @@
+tellraw @a {"text":"Get _Gaemer'd","bold":true,"hoverEvent":{"action":"show_text","contents":[{"text":"Lmao","italic":true,"color":"dark_purple"}]}}
+give @a paper{display:{Name:'{"text":"_Gaemer\'d","italic":false}'},HideFlags:1,Enchantments:[{id:"minecraft:knockback",lvl:2s},{id:"minecraft:vanishing_curse",lvl:1s}]} 1

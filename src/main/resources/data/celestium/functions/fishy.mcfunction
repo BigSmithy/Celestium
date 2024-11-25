@@ -1,0 +1,2 @@
+tellraw @a {"text":"Something smells... Fishy.","bold":true,"italic":true,"color":"blue","hoverEvent":{"action":"show_text","contents":[{"text":"Really fishy.","italic":true,"color":"dark_purple"}]}}
+give @a cooked_cod 5
